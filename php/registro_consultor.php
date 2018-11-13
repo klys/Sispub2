@@ -1,0 +1,1 @@
+<label style = 'text-align: center; color:rgb(250,250,250);'> Historial de Registro </label>

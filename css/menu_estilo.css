@@ -1,0 +1,45 @@
+*{
+	/*padding: 0px;*/
+	/*margin: 0px;*/
+}
+ol#Servicios{
+	list-style: none;
+	padding-left: 1px;
+}
+ div#contenido{
+	color: rgb(250,250,250);
+	font-family: Arial;
+	font-style: inherit;
+}
+ol#Servicios li.Menu{
+	border: 1px solid #ccc;
+	background: rgb(150,10,10);
+	padding-top: 5px;
+	font-size: 20px;
+	text-indent: 10px;
+	color: #7A7A7A;
+	cursor: pointer;
+	width: 340;
+}
+li.Menu:first-child{
+
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+li.Menu:last-child{
+
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+li.Menu ul{
+	background-color: white;
+	list-style: none;
+	padding: 0px;
+	display: none;
+}
+li.Menu ul li{
+	border: 1px solid #ddd;
+	background-color: #FBFBFB;
+	padding: 5px;
+}

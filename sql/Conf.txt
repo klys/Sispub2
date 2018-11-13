@@ -1,0 +1,8 @@
+-->Servidor: "Localhost"
+-->Base: "servicios_publicos"
+-->usuario: "root"
+-->Contraseña_ser:""
+
+
+
+<< php/conexion.php
